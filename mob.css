@@ -1,0 +1,60 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    padding: 0%;
+    margin: 0px;
+}
+  /* nav complete here */
+  /* banner stars here */
+#home{
+    background-image: url("photo/Banner3.jpg");
+    height: 300px;
+    width: 100%;
+    background-repeat: no-repeat;
+   background-size: cover;
+   }
+ 
+   #registration{
+    background-color: rgb(76, 145, 185);
+    width: 400px;
+    height: 400px;
+    color: white;
+    position: relative;
+    top: 60px;
+    left: 100px;
+    border-radius: 20px;
+    padding: 20px;
+    display: none;
+   }
+   #registration h3{
+    text-align: center;
+   }
+   .txtspan{
+    color: white;
+   }
+
+   #Myslide{
+ 
+  
+    width: 90%;
+    height: 300px;
+    display: block;
+    margin: 0px auto;
+  
+}
+#carouselExample{
+    width: 100%;
+    height: 250px;
+}
+#carouselExample img{
+    height: 250px;
+}
+
+.p{
+    margin-top: 100px;
+
+}
+
+ 
+   /* banner ends here */

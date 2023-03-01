@@ -1,0 +1,23 @@
+
+
+
+
+#registration{
+    background-color: rgb(76, 145, 185);
+    width: 400px;
+    height: 400px;
+    color: white;
+    position: relative;
+    top: 60px;
+    left: 1100px;
+    border-radius: 20px;
+    padding: 20px;
+   }
+   #registration h3{
+    text-align: center;
+   }
+   .txtspan{
+    color: white;
+   }
+ 
+/* home ends here */
